@@ -1,0 +1,38 @@
+{
+  "name": "trny",
+  "version": "1.0.10",
+  "description": "A javascript package that extracts transactional info from a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minimal-scouser/trny.git"
+  },
+  "keywords": [
+    "money",
+    "amount",
+    "extract",
+    "javascript",
+    "react",
+    "angular",
+    "vue",
+    "js",
+    "npm",
+    "github",
+    "android",
+    "ios",
+    "message",
+    "transactional"
+  ],
+  "author": "syed_pasha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minimal-scouser/trny/issues"
+  },
+  "homepage": "https://github.com/minimal-scouser/trny#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
